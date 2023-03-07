@@ -1,0 +1,9 @@
+haveged
+mpv
+yt-dlp
+firefox-i18n-fr
+thunderbird-i18n-fr 
+flatpak
+libreoffice-fresh-fr
+neofetch
+upower
