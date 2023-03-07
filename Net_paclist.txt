@@ -12,3 +12,4 @@ nm-connection-editor
 nss-mdns
 wget
 whois
+wireguard-tools
