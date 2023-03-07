@@ -1,8 +1,7 @@
 haveged
 mpv
-yt-dlp
-firefox-i18n-fr
-thunderbird-i18n-fr 
+firefox
+thunderbird
 flatpak
 libreoffice-fresh-fr
 neofetch
