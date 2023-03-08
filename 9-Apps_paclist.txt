@@ -1,4 +1,3 @@
-haveged
 mpv
 firefox-i18n-fr
 thunderbird-i18n-fr
