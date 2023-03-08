@@ -10,3 +10,4 @@ plasma-wayland-session
 print-manager
 sddm
 yakuake
+Skanlite
