@@ -1,8 +1,9 @@
 haveged
 mpv
-firefox
-thunderbird
+firefox-i18n-fr
+thunderbird-i18n-fr
 flatpak
 libreoffice-fresh-fr
 neofetch
 upower
+signal-desktop
