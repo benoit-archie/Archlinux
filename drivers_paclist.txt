@@ -1,5 +1,6 @@
 dkms
 intel-media-driver
+nvidia-utils
 libva-utils
 linux-headers
 mesa
