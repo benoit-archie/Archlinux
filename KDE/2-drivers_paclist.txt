@@ -1,3 +1,4 @@
+amdgpu
 dkms
 haveged
 intel-media-driver
