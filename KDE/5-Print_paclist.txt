@@ -17,3 +17,4 @@ python-pyqt5
 python-reportlab
 system-config-printer
 sane
+skanpage
