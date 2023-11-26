@@ -6,3 +6,4 @@ libreoffice-fresh-fr
 neofetch
 upower
 signal-desktop
+chromium
